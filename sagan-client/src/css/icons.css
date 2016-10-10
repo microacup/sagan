@@ -100,6 +100,12 @@
   background-position: 247px 837px;
   margin-top: 11px;
 }
+.icon.project--logo.logo-spring-cloud-dataflow {
+    width: 130px;
+    height: 105px;
+    background-position: 669px 1072px;
+    margin-top: 11px;
+}
 .icon.project--logo.logo-spring-boot {
   width: 102px;
   height: 90px;
@@ -137,16 +143,28 @@
   margin-top: 23px;
 }
 .icon.project--logo.logo-spring-cloud {
-    width: 150px;
-    height: 111px;
-    background-position: 253px 955px;
-    margin-top: 13px;
+  width: 150px;
+  height: 111px;
+  background-position: 253px 955px;
+  margin-top: 13px;
 }
 .icon.project--logo.logo-platform {
-    width: 116px;
-    height: 105px;
-    background-position: 675px 957px;
-    margin-top: 23px;
+  width: 116px;
+  height: 105px;
+  background-position: 675px 957px;
+  margin-top: 23px;
+}
+.icon.project--logo.logo-spring-flo {
+  width: 133px;
+  height: 111px;
+  background-position: 133px 1065px;
+  margin-top: 23px;
+}
+.icon.project--logo.logo-spring-kafka {
+  width: 130px;
+  height: 116px;
+  background-position: 817px 1072px;
+  margin-top: 11px;
 }
 .icon.icon-projects {
   width: 28px;
@@ -262,6 +280,11 @@
   background-position: 995px 1070px;
 }
 .icon.icon-tutorial {
+  width: 73px;
+  height: 101px;
+  background-position: 430px 101px;
+}
+.icon.icon-topical {
   width: 73px;
   height: 101px;
   background-position: 430px 101px;

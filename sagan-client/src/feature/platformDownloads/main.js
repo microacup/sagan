@@ -1,5 +1,6 @@
 var $ = require('jquery');
-var os = require('platform/os');
+require('bootstrap/js/bootstrap-collapse');
+var os = require('../../platform/os');
 
 module.exports = function initPlatformDownloads() {
     var collapsibleEvents = {

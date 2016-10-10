@@ -106,22 +106,6 @@
   text-transform: uppercase;
 }
 
-/* SpringOne Platform banner */
-
-.homepage--body .hero--banner .springone {
-  background: url("../img/home-banner-springone-platform.jpg") #34302d no-repeat 50% 50%;
-  background-size: cover;
-  height: 278px;
-}
-
-.homepage--body .hero--banner .springone a {
-  background-color: #261D57;
-  color: #f1f1f1;
-  padding: 0.3em;
-  float:right;
-  margin-top: 12em;
-}
-
 /* Spring Cloud Services banner */
 
 .homepage--body .hero--banner .springcloud-services {
@@ -146,6 +130,13 @@
   text-transform: uppercase;
 }
 
+/* SpringOne Platform banner */
+.homepage--body .hero--banner .springoneplatform a {
+  background: url("../img/s1p-2017-banner.jpg") #34302d no-repeat 50% 50%;
+  background-size: cover;
+  height: 278px;
+  display:block;
+}
 
 .homepage--body .key-feature--wrapper {
   background-color: #6db33f;
